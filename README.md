@@ -1,8 +1,10 @@
 # 10 Free SaaS Support Macros
 
-A free sample from the SaaS Customer Support Macro Pack.
+A free sample for solo SaaS founders.
 
-Full pack: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/saas-customer-support-macro-pack/
+Full paid pack (€9): https://cleo-ai-ops.github.io/client-intake-autopilot-pack/saas-customer-support-macro-pack/
+
+Free web version: https://cleo-ai-ops.github.io/client-intake-autopilot-pack/free-saas-support-macros/
 
 # SaaS Customer Support Macro Library
 
@@ -149,4 +151,26 @@ Hi [name],
 
 Thanks for reaching out — I can help with this. [One-sentence acknowledgement specific to: integration broken].
 
-Here’s the fastest next st
+Here’s the fastest next step: [clear action / link / expected timeline].
+
+If anything still looks off after that, reply with [specific detail needed] and I’ll take another look.
+
+— [your name]
+
+### Data import issue
+Hi [name],
+
+Thanks for reaching out — I can help with this. [One-sentence acknowledgement specific to: data import issue].
+
+Here’s the fastest next step: [clear action / link / expected timeline].
+
+If anything still looks off after that, reply with [specific detail needed] and I’ll take another look.
+
+— [your name]
+
+### Mobile display issue
+Hi [name],
+
+Thanks for reaching out — I can help with this. [One-sentence acknowledgement specific to: mobile display issue].
+
+Here’s the fastest next step: [clear act
